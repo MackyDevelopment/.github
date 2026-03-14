@@ -4,8 +4,6 @@
 
 SyncLib delivers **high-quality free**, **open source** FiveM Resources.
 
-`Performance and Quality, Extensive Customization, and Community-Driven Development`
-
   # 🎂 Links
 
 📂 [GitHub](https://github.com/SyncLib)\

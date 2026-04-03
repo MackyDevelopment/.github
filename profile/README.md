@@ -2,13 +2,13 @@
 
   # 🪐 Macky
 
-Macky delivers **high-quality free**, **open source** FiveM Resources.
+Macky delivers **high-quality** FiveM Resources.
 
   # 🎂 Links
 
 📂 [GitHub](https://github.com/MackyDevelopment)\
-🎥 [YouTube](https://www.youtube.com/@SyncLib)\
-📚 [Documentation](https://synclib.gitbook.io/synclib)\
+🎥 [YouTube](https://www.youtube.com/@MackyDev)\
+📚 [Documentation](https://mackydev.gitbook.io/mackydev)\
 💬 [Discord Server](https://discord.gg/GBPAGDmegX)
 
   # 👷‍♂️ Team

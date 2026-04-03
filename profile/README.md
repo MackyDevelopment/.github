@@ -11,8 +11,4 @@ Macky delivers **high-quality** FiveM Resources.
 📚 [Documentation](https://mackydev.gitbook.io/mackydev)\
 💬 [Discord Server](https://discord.gg/GBPAGDmegX)
 
-  # 👷‍♂️ Team
-
-  ![Macky's GitHub stats](https://github-readme-stats.vercel.app/api?username=immacky&show_icons=true&theme=dark)
-
 </div>

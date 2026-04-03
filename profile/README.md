@@ -1,15 +1,13 @@
 <div align="center">
 
-  # 🪐 SyncLib
+  # 🪐 Macky
 
-SyncLib delivers **high-quality free**, **open source** FiveM Resources.
+Macky delivers **high-quality free**, **open source** FiveM Resources.
 
   # 🎂 Links
 
-📂 [GitHub](https://github.com/SyncLib)\
+📂 [GitHub](https://github.com/MackyDevelopment)\
 🎥 [YouTube](https://www.youtube.com/@SyncLib)\
-🌳 [Linktree](https://linktr.ee/SyncLib)\
-💖 [Patreon](https://patreon.com/SyncLib)\
 📚 [Documentation](https://synclib.gitbook.io/synclib)\
 💬 [Discord Server](https://discord.gg/GBPAGDmegX)
 
